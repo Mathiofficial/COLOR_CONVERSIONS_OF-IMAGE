@@ -48,7 +48,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![Screenshot (138)](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/f79c6d75-dd71-47e1-96a2-232d62b4c724)">
+ "![Screenshot (138)](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/f79c6d75-dd71-47e1-96a2-232d62b4c724)">
   </td>
   </tr>
 
