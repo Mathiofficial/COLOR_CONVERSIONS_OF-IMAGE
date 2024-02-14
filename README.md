@@ -48,8 +48,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![Screenshot (138)](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/f79c6d75-dd71-47e1-96a2-232d62b4c724)
-">
+ <img src="![Screenshot (138)](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/f79c6d75-dd71-47e1-96a2-232d62b4c724)">
   </td>
   </tr>
 
@@ -67,8 +66,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-<img src="![Screenshot 2024-02-14 111459](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/fd77bd08-b104-4a08-9d61-84283f16a0bb)
-">
+<img src="![Screenshot 2024-02-14 111459](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/fd77bd08-b104-4a08-9d61-84283f16a0bb)">
   </td>
   </tr>
   <tr>
@@ -84,8 +82,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="![Screenshot 2024-02-14 111509](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/c87c78bd-e3d8-4e5a-b93c-e8025dce101a)
-">
+<img src="![Screenshot 2024-02-14 111509](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/c87c78bd-e3d8-4e5a-b93c-e8025dce101a)">
   </td>
   </tr>
   <tr>
@@ -111,8 +108,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![Screenshot 2024-02-14 111621](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/3a70e210-6d5c-41c6-a631-38daa8bcaf89)
-">
+ <img src="![Screenshot 2024-02-14 111621](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/3a70e210-6d5c-41c6-a631-38daa8bcaf89)">
   </td>
   </tr>
   <tr>
@@ -135,8 +131,7 @@ Anaconda - Python 3.7
     
 ### OUTPUT:
 
-<img src="![Screenshot 2024-02-14 111837](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/7d261088-5eeb-47dc-ad1b-972901b86999)
-">
+<img src="![Screenshot 2024-02-14 111837](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/7d261088-5eeb-47dc-ad1b-972901b86999)">
   </td>
   </tr>
 </table>
@@ -172,7 +167,7 @@ cv2.destroyAllWindows()
 ### vii) HSV to RGB and BGR
 ```Python
 import cv2
-img = cv2.imread('')
+img = cv2.imread('pristine-reflective-lake-show-image-260nw-2305485315.jpg')
 img = cv2.resize(img,(300,200))
 
 img = cv2.cvtColor(img,cv2.COLOR_BGR2HSV)
@@ -190,12 +185,13 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![Screenshot 2024-02-14 112829](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/5e5723a0-d127-416d-a473-72a415dd12a8)
 
 
 ### viii) RGB and BGR to YCrCb
 ```Python
 import cv2
-img = cv2.imread('')
+img = cv2.imread('pristine-reflective-lake-show-image-260nw-2305485315.jpg')
 img = cv2.resize(img,(300,200))
 cv2.imshow('Original RGB Image',img)
 
@@ -211,12 +207,13 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![Screenshot 2024-02-14 112951](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/709cd998-d9ef-4293-b4cb-7a881e8fc55d)
 
 
 ### ix) Split and merge RGB Image
 ```Python
 import cv2
-img = cv2.imread('',1)
+img = cv2.imread('pristine-reflective-lake-show-image-260nw-2305485315.jpg',1)
 img = cv2.resize(img,(300,200))
 
 R = img[:,:,2]
@@ -236,12 +233,13 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![Screenshot 2024-02-14 113247](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/92cc2059-7eb4-4da4-b014-65069e24309e)
 
 
 ### x) Split and merge HSV Image
 ```Python
 import cv2
-img = cv2.imread("",1)
+img = cv2.imread("pristine-reflective-lake-show-image-260nw-2305485315.jpg",1)
 img = cv2.resize(img,(300,200))
 img=cv2.cvtColor(img,cv2.COLOR_RGB2HSV)
 
@@ -260,6 +258,7 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![Screenshot 2024-02-14 113515](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/8f673325-ff01-4f53-8d05-fe5596340482)
 
 
 ## Result:
