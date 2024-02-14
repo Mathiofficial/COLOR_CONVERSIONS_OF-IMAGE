@@ -48,7 +48,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- "![Screenshot (138)](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/f79c6d75-dd71-47e1-96a2-232d62b4c724)">
+ ![Screenshot 2024-02-14 200530](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/21f147ae-2762-4b4c-8e19-01459aab7efd)
+
   </td>
   </tr>
 
@@ -66,7 +67,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-<img src="![Screenshot 2024-02-14 111459](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/fd77bd08-b104-4a08-9d61-84283f16a0bb)">
+![Screenshot 2024-02-14 111459](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/fd77bd08-b104-4a08-9d61-84283f16a0bb)
   </td>
   </tr>
   <tr>
@@ -82,7 +83,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="![Screenshot 2024-02-14 111509](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/c87c78bd-e3d8-4e5a-b93c-e8025dce101a)">
+![Screenshot 2024-02-14 111509](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/c87c78bd-e3d8-4e5a-b93c-e8025dce101a)
   </td>
   </tr>
   <tr>
@@ -108,7 +109,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![Screenshot 2024-02-14 111621](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/3a70e210-6d5c-41c6-a631-38daa8bcaf89)">
+ ![Screenshot 2024-02-14 111621](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/3a70e210-6d5c-41c6-a631-38daa8bcaf89)
   </td>
   </tr>
   <tr>
@@ -131,7 +132,7 @@ Anaconda - Python 3.7
     
 ### OUTPUT:
 
-<img src="![Screenshot 2024-02-14 111837](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/7d261088-5eeb-47dc-ad1b-972901b86999)">
+![Screenshot 2024-02-14 111837](https://github.com/Mathiofficial/COLOR_CONVERSIONS_OF-IMAGE/assets/118787327/7d261088-5eeb-47dc-ad1b-972901b86999)
   </td>
   </tr>
 </table>
